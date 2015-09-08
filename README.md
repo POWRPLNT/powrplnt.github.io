@@ -16,5 +16,5 @@ Empowerment is central to our mission. By providing people with the resources to
  
 ---
 
-(Tumblr)[http://powrplnt.tumblr.com/] / (Website)[http://powrplnt.org]
+[Tumblr](http://powrplnt.tumblr.com/) / [Website](http://powrplnt.org)
 
